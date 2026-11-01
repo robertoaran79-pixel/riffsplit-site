@@ -1,2 +1,3 @@
-# riffsplit-site
-Riff Spit App Documentation
+# RiffSplit
+
+Site público do RiffSplit (RLA LABS): suporte e política de privacidade.
