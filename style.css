@@ -15,3 +15,26 @@ nav.lang{margin:12px 0 24px;display:flex;gap:12px;flex-wrap:wrap}
 nav.lang a{padding:4px 12px;border:1px solid var(--border);border-radius:999px;text-decoration:none}
 section.card{background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:8px 20px 16px;margin:16px 0}
 footer{margin-top:40px;font-size:14px;color:var(--muted)}
+nav.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:20px}
+nav.top a{text-decoration:none}
+nav.top .marca{display:flex;align-items:center;gap:8px;font-weight:700;color:var(--text)}
+nav.top .marca img{border-radius:8px}
+nav.top .links{display:flex;gap:16px}
+.hero h1{font-size:30px;margin:18px 0 8px}
+.banner{width:100%;height:auto;border-radius:18px;display:block}
+.lead{font-size:19px;color:var(--muted)}
+.cta{margin:20px 0}
+.cta img{height:53px;width:auto}
+.lista-icones{list-style:none;padding-left:0}
+.lista-icones li{margin:8px 0}
+.faq details{border-top:1px solid var(--border);padding:10px 0}
+.faq details:first-of-type{border-top:0}
+.faq summary{cursor:pointer;font-weight:600}
+.faq details p{margin:8px 0 0}
+.arte{margin:16px 0;text-align:center}
+.arte img{max-width:360px;width:100%;height:auto;border-radius:16px}
+.trilha{font-size:14px;color:var(--muted)}
+ul.guias li{margin:12px 0}
+footer .legal{font-size:12px}
+footer p{margin:6px 0}
+header.hero,article>header,header.texto{display:block}

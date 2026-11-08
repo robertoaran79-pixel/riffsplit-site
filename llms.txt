@@ -1,0 +1,29 @@
+# RiffSplit
+
+> RiffSplit é um app de estudo musical para iPhone, iPad e Mac (Apple Silicon) que separa qualquer música em 6 faixas (voz, bateria, baixo, guitarra, piano e outros) no próprio aparelho, sem internet, sem nuvem e sem conta. Feito pela RLA LABS, no Brasil.
+
+Fatos principais:
+- Separação no aparelho, offline; a música não é enviada a servidores
+- Mixer com volume, pan, mudo e solo por faixa
+- Tom até ±12 semitons e velocidade de 50% a 150%, independentes
+- Loop A–B na forma de onda, metrônomo e contagem
+- Exportação da mixagem ou das 6 faixas em AAC, WAV ou Apple Lossless (com desbloqueio)
+- Importa MP3, AAC/M4A, ALAC, WAV, AIFF, FLAC e vídeos; não abre músicas de streaming com DRM (Spotify, Apple Music)
+- Modelo: download grátis separando 30 segundos por música; compra única no app libera músicas inteiras e exportação; sem assinatura
+- Biblioteca sincronizada pelo iCloud do usuário
+- Idiomas do app: português, inglês e espanhol
+- Download: https://apps.apple.com/app/id6829560023
+
+## Páginas
+- [Início](https://robertoaran79-pixel.github.io/riffsplit-site/): o que o app faz, para quem é e perguntas frequentes
+- [English](https://robertoaran79-pixel.github.io/riffsplit-site/en/)
+- [Español](https://robertoaran79-pixel.github.io/riffsplit-site/es/)
+- [Suporte](https://robertoaran79-pixel.github.io/riffsplit-site/suporte.html): dúvidas de uso, compra, iCloud e reembolso
+- [Privacidade](https://robertoaran79-pixel.github.io/riffsplit-site/privacidade.html)
+
+## Guias
+- [Como isolar o baixo de uma música no iPhone](https://robertoaran79-pixel.github.io/riffsplit-site/guias/como-isolar-o-baixo-de-uma-musica-no-iphone.html): Passo a passo para ouvir só o baixo de uma música no iPhone ou iPad, ou tirar o baixo e tocar no lugar, com separação de faixas no próprio aparelho.
+- [Como desacelerar um solo sem mudar o tom](https://robertoaran79-pixel.github.io/riffsplit-site/guias/como-desacelerar-um-solo-sem-mudar-o-tom.html): Aprenda a deixar um solo mais lento mantendo o tom original, isolando a guitarra e repetindo o trecho difícil em loop no iPhone, iPad ou Mac.
+- [Como mudar o tom de uma música para cantar](https://robertoaran79-pixel.github.io/riffsplit-site/guias/como-mudar-o-tom-de-uma-musica-para-cantar.html): Coloque qualquer música no seu tom em semitons, sem mudar a velocidade, e ensaie com a base sem a voz original no iPhone, iPad ou Mac.
+- [Como tirar música de ouvido com faixas separadas](https://robertoaran79-pixel.github.io/riffsplit-site/guias/como-tirar-musica-de-ouvido-com-faixas-separadas.html): Método em 5 passos para tirar música de ouvido mais rápido ouvindo cada instrumento separado, com loop, velocidade reduzida e metrônomo.
+- [Separar faixas de música sem internet e sem enviar para a nuvem](https://robertoaran79-pixel.github.io/riffsplit-site/guias/separar-faixas-de-musica-sem-internet.html): Como separar voz e instrumentos (stems) de uma música no próprio aparelho, sem internet, sem conta e sem enviar o arquivo para servidores.
